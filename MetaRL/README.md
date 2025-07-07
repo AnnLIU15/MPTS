@@ -7,9 +7,9 @@ This repository implements the MPTS and baselines proposed in the paper **"Beyon
 ### Installation
 ```bash
 conda create -n mpts_metarl python=3.7 -y
-conda create -n mpts_metarl
+conda activate mpts_metarl
 
-# Install dependencies (mujoco required)
+# Install dependencies (mujoco210 required)
 pip install -r requirements.txt
 ```
 
@@ -30,3 +30,9 @@ pip install -r requirements.txt
 - ReacherPos-v0
 
 More scenarios can be easily included in `envs/`.
+
+### 📋 Log Metrics
+
+- `init_multi_steps_reward_1`: Average evaluation returns  
+- `init_multi_steps1_cvar_reward_10`: CVaR 0.9 returns  
+- `return_corr`: Correlation coefficient

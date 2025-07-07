@@ -7,9 +7,9 @@ This repository implements the MPTS and baselines proposed in the paper **"Beyon
 ### Installation
 ```bash
 conda create -n mpts_dr python=3.7 -y
-conda create -n mpts_dr
+conda activate mpts_dr
 
-# Install dependencies (mujoco required)
+# Install dependencies (mujoco210 required)
 pip install -e .
 # Install gym-ergojr
 pip install git+https://github.com/fgolemo/gym-ergojr.git
