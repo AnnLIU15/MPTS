@@ -10,13 +10,18 @@
 
 This repository implements the MPTS (Model Predictive Task Sampling) and baselines proposed in the paper [**"Model Predictive Task Sampling for Efficient and Robust Adaptation"**](https://arxiv.org/abs/2501.11039).
 
+Framework of MPTS in Adaptation Learning:
 ![](./assets/mpts_overall_framework.png)
+![](./assets/mpts_definition.png)
 
 ## 🔧 Installation & Applications
 Please refer to the following folders for related instructions and code:
 - [`sinusoid/`](sinusoid/): Code related to sinusoid regression
 - [`MetaRL/`](MetaRL/): Code related to Meta RL scenarios
 - [`DR/`](DR/): Code related to Domain Randomization scenarios
+
+K-shot Sinusoid Regression Results (10 Runs):
+![](./assets/fig_meta_sin.png)
 
 ## 🚀 Tutorials & Quickstart
 
