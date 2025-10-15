@@ -1,6 +1,6 @@
 # MPTS-MetaRL
 
-This repository implements the MPTS and baselines proposed in the paper **"Beyond Any-Shot Adaptation: Predicting Optimization Outcome for Robustness Gains without Extra Pay"**, focusing on Meta-RL scenarios. The code is adapted from https://github.com/lmzintgraf/cavia/tree/master/rl .
+This repository implements the MPTS and baselines proposed in the paper **"Model Predictive Task Sampling for Efficient and Robust Adaptation"**, focusing on Meta-RL scenarios. The code is adapted from https://github.com/lmzintgraf/cavia/tree/master/rl .
 
 ## 🚀 Quick Start
 

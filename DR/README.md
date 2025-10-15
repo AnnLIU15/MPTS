@@ -1,6 +1,6 @@
 # MPTS-DR
 
-This repository implements the MPTS and baselines proposed in the paper **"Beyond Any-Shot Adaptation: Predicting Optimization Outcome for Robustness Gains without Extra Pay"**, focusing on physical robotics domain randomization scenarios. The code is adapted from https://github.com/montrealrobotics/active-domainrand .
+This repository implements the MPTS and baselines proposed in the paper **"Model Predictive Task Sampling for Efficient and Robust Adaptation"**, focusing on physical robotics domain randomization scenarios. The code is adapted from https://github.com/montrealrobotics/active-domainrand .
 
 ## 🚀 Quick Start
 

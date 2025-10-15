@@ -1,6 +1,6 @@
 # MPTS-Sinusoid
 
-This repository implements the MPTS and baselines proposed in the paper **"Beyond Any-Shot Adaptation: Predicting Optimization Outcome for Robustness Gains without Extra Pay"**, focusing on sinusoid regression scenario.
+This repository implements the MPTS and baselines proposed in the paper **"Model Predictive Task Sampling for Efficient and Robust Adaptation"**, focusing on sinusoid regression scenario.
 
 ## 🚀 Quick Start
 
